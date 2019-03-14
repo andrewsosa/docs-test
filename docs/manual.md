@@ -9,9 +9,8 @@ The registration webapp uses [MongoDB](https://www.mongodb.com/) as the database
 This project also has some dependency on [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/), [Gulp](https://gulpjs.com/), and [Sass](http://sass-lang.com/) for managing/building styles. Currently the project includes pre-built stylesheets, but if you wish to recomplile them you will need these dependencies.
 
 ## Installation
-:::tip
- If you choose to install the webapp on your host system, follow these steps to setup the webapp. If using Docker for webapp development, you can skip this.
-:::
+
+> If you choose to install the webapp on your host system, follow these steps to setup the webapp. If using Docker for webapp development, you can skip this.
 
 #### Python Dependencies
 To manage the dependencies of the webapp, we _strongly recommend_ using a [virtualenv](https://virtualenv.pypa.io/en/stable/). You may also be interested in [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/).
